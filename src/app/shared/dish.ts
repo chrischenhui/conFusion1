@@ -1,9 +1,4 @@
-class Comment {
-    rating: number;
-    comment: string;
-    author: string;
-    date: string;
-}
+import { Comment } from './comment';
 
 export class Dish {
     id: string;
